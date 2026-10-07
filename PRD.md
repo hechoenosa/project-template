@@ -1,6 +1,6 @@
 # Our PRD
 
-PRD = Product Requirements Document: our plan, before anything gets built. Written by us, by hand.
+PRD = Product Requirements Document: **what** we're building and **for whom**. Finished by the end of **Week 3**. Written by us, by hand.
 
 ## 1. Who is it for? (persona)
 
@@ -21,14 +21,4 @@ From opening it to finishing.
 ## 7. NOT building yet
 At least 3 things we're leaving out.
 
-## 8. Data and level
-What information it needs, where it comes from, and our level from The Stack.
-
-## 9. Done when (our tests)
-When I [do something], I should see [result].
-
-1.
-2.
-3.
-4.
-5.
+Checked by mentor: ______
