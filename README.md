@@ -36,7 +36,7 @@ Everything that helped: editors, AI tools, websites, hardware, tutorials, people
 
 | Tool | What we used it for |
 |---|---|
-| e.g. Claude / ChatGPT | e.g. helped us debug the scoring function |
+| e.g. Gemini / Copilot | e.g. turned our PRD into the first version of index.html |
 | | |
 
 Using AI is allowed and encouraged. Say what you used it for.
@@ -59,7 +59,7 @@ None? Write "None".
 Who tried it (a friend, a parent, another team)? What confused them? What did they like?
 
 ## 9. Final presentation / Presentación final
-Put your Exhibition Day slides in the `presentation` folder as a PDF: `presentation/final.pdf`
+Put your Demo Day slides in the `presentation` folder as a PDF: `presentation/final.pdf`
 
 ## 10. How we worked together / Cómo trabajamos juntos *(optional, for teams)*
 Did you use issues and pull requests? Who did what? What would you do differently?
@@ -71,4 +71,4 @@ Did you use issues and pull requests? Who did what? What would you do differentl
 - [ ] Code comments explain the main parts
 - [ ] `presentation/final.pdf` is in the repo
 - [ ] No passwords, API keys, phone numbers, emails, or photos of people's faces anywhere in the repo
-- [ ] Pushed to [github.com/hechoenosa](https://github.com/hechoenosa) by **[deadline]**
+- [ ] Pushed to [github.com/hechoenosa](https://github.com/hechoenosa) by **Thu 10 Dec, 8 pm**
