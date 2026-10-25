@@ -1,0 +1,34 @@
+name: "🚀 Pro builders: send your idea"
+description: "For builders who already code. Send this by Sun 1 Nov. It takes about 10 minutes."
+title: "your-project-name-pro"
+labels: ["pro"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Send this by **Sun 1 Nov, 8 pm**. You don't need to have built anything yet.
+
+        **Title:** Your project name in lowercase letters and dashes, ending in `-pro`. For example `volt-pro` or `spot-the-rip-pro`. We'll create a repo with that name in Hecho en Osa and invite your team. If you're on a team, one person sends this for everyone.
+
+        **Next:** In your new repo, fill in `PRD.md` (what your product does) and `TRD.md` (your tech stack) by Sun 8 Nov.
+  - type: textarea
+    id: team
+    attributes:
+      label: Who is on your team?
+      description: Your GitHub username, and your teammates' if you have any, one per line. To find yours, click your profile picture at the top right of GitHub.
+      placeholder: "@your-username"
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: Your idea
+      description: Answer each line in a sentence or two.
+      value: |
+        What it is:
+        Who it's for:
+        Their problem:
+        Is it new, or did you start it before Hecho en Osa? If you started it, what works already (add a link if you have one):
+        What you want to build by Thu 10 Dec:
+    validations:
+      required: true

@@ -1,3 +1,5 @@
+> 🚀 **Pro builders (you already code):** [send us your idea here](https://github.com/hechoenosa/project-template/issues/new?template=pro.yml) by Sun 1 Nov. We'll set up your repo, named `your-project-pro`, and invite you. Then fill in `PRD.md` and `TRD.md` by Sun 8 Nov. *Teams: delete this line when you fill in your README.*
+
 # [Project name]
 
 > **Hecho en Osa 2026** · Track: [Learning Game / Interactive Story / Social Impact Tool / Field Science / Built by Hand / Wildcard]
