@@ -8,9 +8,7 @@ body:
       value: |
         Send this by **Sun 1 Nov, 8 pm**. You don't need to have built anything yet.
 
-        **Title:** Your project name in lowercase letters and dashes, ending in `-pro`. For example `volt-pro` or `spot-the-rip-pro`. We'll create a repo with that name in Hecho en Osa and invite your team. If you're on a team, one person sends this for everyone.
-
-        **Next:** In your new repo, fill in `PRD.md` (what your product does) and `TRD.md` (your tech stack) by Sun 8 Nov.
+        **Title:** Your project name in lowercase letters and dashes, ending in `-pro`. For example `volt-pro`. We'll create a repo with that name in Hecho en Osa and invite your team. If you're on a team, one person sends this for everyone.
   - type: textarea
     id: team
     attributes:
@@ -20,15 +18,37 @@ body:
     validations:
       required: true
   - type: textarea
-    id: idea
+    id: what
     attributes:
-      label: Your idea
-      description: Answer each line in a sentence or two.
-      value: |
-        What it is:
-        Who it's for:
-        Their problem:
-        Is it new, or did you start it before Hecho en Osa? If you started it, what works already (add a link if you have one):
-        What you want to build by Thu 10 Dec:
+      label: What is your idea?
+      description: One or two sentences.
+    validations:
+      required: true
+  - type: textarea
+    id: who
+    attributes:
+      label: Who is it for, and what problem does it solve for them?
+    validations:
+      required: true
+  - type: dropdown
+    id: status
+    attributes:
+      label: Is it new, or did you start it before Hecho en Osa?
+      options:
+        - It's new, I'm starting now
+        - I started it before
+    validations:
+      required: true
+  - type: textarea
+    id: existing
+    attributes:
+      label: If you started it before, what works already?
+      description: Add a link to the code if you have one. New project? Write "nothing yet".
+    validations:
+      required: true
+  - type: textarea
+    id: plan
+    attributes:
+      label: What do you want to build by Thu 10 Dec?
     validations:
       required: true
