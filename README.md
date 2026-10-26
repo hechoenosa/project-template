@@ -1,4 +1,4 @@
-> 🚀 **Pro builders (you already code):** [send us your idea here](https://github.com/hechoenosa/project-template/issues/new?template=pro.yml) by Sun 1 Nov. We'll set up your repo, named `your-project-pro`, and invite you. Then fill in `PRD.md` and `TRD.md` by Sun 8 Nov. *Teams: delete this line when you fill in your README.*
+> 🚀 **Pro builders (you already code):** [send us your idea here](https://github.com/hechoenosa/project-template/issues/new?template=pro.yml) by Sun 1 Nov. A repo is optional: build wherever you like, and post your PRD and TRD on your issue by Sun 8 Nov. [All the steps](https://github.com/hechoenosa/zerotohero2026/blob/main/SUBMIT.md). *Teams: delete this line when you fill in your README.*
 
 # [Project name]
 

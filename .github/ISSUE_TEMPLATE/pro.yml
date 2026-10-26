@@ -8,7 +8,7 @@ body:
       value: |
         Send this by **Sun 1 Nov, 8 pm**. You don't need to have built anything yet.
 
-        **Title:** Your project name in lowercase letters and dashes, ending in `-pro`. For example `volt-pro`. We'll create a repo with that name in Hecho en Osa and invite your team. If you're on a team, one person sends this for everyone.
+        **Title:** Your project name in lowercase letters and dashes, ending in `-pro`. For example `volt-pro`. This becomes your Pro project issue: Your PRD, updates and final demo all go here as comments. You don't need a repo from us. If you're on a team, one person sends this for everyone.
   - type: textarea
     id: team
     attributes:
